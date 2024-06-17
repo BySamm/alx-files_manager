@@ -1,0 +1,5 @@
+# node_modules first
+node_modules/
+
+# mongosh
+mongosh-1.6.1-linux-x64/
