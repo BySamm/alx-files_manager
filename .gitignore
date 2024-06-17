@@ -3,3 +3,6 @@ node_modules/
 
 # mongosh
 mongosh-1.6.1-linux-x64/
+
+# One file
+main_2.js
